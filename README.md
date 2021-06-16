@@ -13,4 +13,4 @@ https://lernantino.github.io/runbuddy/
 ##Contribution
 Made with ❤️ by Elaine Zapata
 
-#Run Buddy Inc.
+### ©️2019 Run Buddy, Inc 
